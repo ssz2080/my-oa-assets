@@ -1,0 +1,21 @@
+{
+    "name": "ssz2080/my-oa-assets",
+    "description": "MY OA Assets  ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ssz",
+            "email": "694100431@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "myoa\\assets\\": "src/"
+        }
+    }
+}
