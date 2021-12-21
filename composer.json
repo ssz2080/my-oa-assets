@@ -2,33 +2,32 @@
  "name": "ssz2080/my-oa-assets", 
  "description": "Yii2 oa assets", 
  "keywords": [ 
- "yii2", 
- "my-oa-assets" 
+   "yii2", 
+   "my-oa-assets" 
  ], 
  "homepage": "https://github.com/ssz2080/my-oa-assets", 
  "type": "yii2-extension", 
  "license": "MIT", 
  "support": { 
- "source": "https://github.com/ssz2080/my-oa-assets" 
+   "source": "https://github.com/ssz2080/my-oa-assets" 
  }, 
  "authors": [ 
- { 
- "name": "ssz2080", 
- "email": "694100431@qq.com" 
- } 
+   { 
+     "name": "ssz2080", 
+     "email": "694100431@qq.com" 
+   } 
  ], 
  "minimum-stability": "stable", 
  "require": { 
- "php": ">=5.4.0", 
- "yiisoft/yii2": ">=2.0.6" 
- 
+   "php": ">=5.4.0", 
+   "yiisoft/yii2": ">=2.0.6" 
  }, 
  "autoload": { 
- "psr-4": { 
- "oa\\": "" 
- } 
+   "psr-4": { 
+     "oa\\": "" 
+   } 
  }, 
  "config": { 
- "process-timeout": 1800 
- } 
+     "process-timeout": 1800 
+   } 
  }
